@@ -2,84 +2,80 @@ m255
 K3
 13
 cModel Technology
-Z0 dE:\Quartus II\RIPPLECOUNTER\simulation\qsim
-vRIPPLECOUNTER
-Z1 !s100 `bb[B]31jnPEiDD[zJ`Kc2
-Z2 Id_DdnOb99W^ZzUHA<5J]M0
-Z3 VNWaK^jCmW8h=dHk`6T>H[0
-Z4 dE:\Quartus II\RIPPLECOUNTER\simulation\qsim
-Z5 w1706508467
-Z6 8RIPPLECOUNTER.vo
-Z7 FRIPPLECOUNTER.vo
+Z0 dC:\Users\acer\Desktop\New folder\ex12\simulation\qsim
+vex12
+Z1 IGkb^>QQ5n:z_I8n[bC0QG1
+Z2 VTCQL_NO17Y`7fgiEP_na>1
+Z3 dC:\Users\acer\Desktop\New folder\ex12\simulation\qsim
+Z4 w1779961636
+Z5 8ex12.vo
+Z6 Fex12.vo
 L0 31
-Z8 OV;L;10.1d;51
+Z7 OV;L;10.1d;51
 r1
 31
-Z9 !s90 -work|work|RIPPLECOUNTER.vo|
-Z10 o-work work -O0
-Z11 n@r@i@p@p@l@e@c@o@u@n@t@e@r
+Z8 o-work work -O0
 !i10b 1
+Z9 !s100 [2G9LnUaeb48OAIIHc2GG2
 !s85 0
-Z12 !s108 1706508468.451000
-Z13 !s107 RIPPLECOUNTER.vo|
+Z10 !s108 1779961637.133000
+Z11 !s107 ex12.vo|
+Z12 !s90 -work|work|ex12.vo|
 !s101 -O0
-vRIPPLECOUNTER_vlg_check_tst
+vex12_vlg_check_tst
 !i10b 1
-Z14 !s100 7ONE;_AHf`=l1G<5IO0mC0
-Z15 I?>_hh8ke>3=4DBRb@G;2h2
-Z16 Vl9AF2BMm[[YAn8YS5L`hI2
-R4
-Z17 w1706508465
-Z18 8RIPPLECOUNTER.vt
-Z19 FRIPPLECOUNTER.vt
+!s100 VJPOPCcC1VKCW;UHg=@Ld1
+Ig@G=K;6h<XfY7<IIKeGRE2
+V8D^a1h^o`eM;UZ]mP;nZ[2
+R3
+Z13 w1779961635
+Z14 8ex12.vt
+Z15 Fex12.vt
 L0 59
-R8
+R7
 r1
 !s85 0
 31
-Z20 !s108 1706508468.560000
-Z21 !s107 RIPPLECOUNTER.vt|
-Z22 !s90 -work|work|RIPPLECOUNTER.vt|
+Z16 !s108 1779961637.211000
+Z17 !s107 ex12.vt|
+Z18 !s90 -work|work|ex12.vt|
 !s101 -O0
-R10
-Z23 n@r@i@p@p@l@e@c@o@u@n@t@e@r_vlg_check_tst
-vRIPPLECOUNTER_vlg_sample_tst
+R8
+vex12_vlg_sample_tst
 !i10b 1
-Z24 !s100 QIgkiUO6JZm?kIa6FNA^=2
-Z25 IAD?anE>9Ei:jEH<bS1[DE2
-Z26 VgWW_8lG6ZCU6;MW[i^T882
-R4
-R17
-R18
-R19
+!s100 G8`cd28kIEGEd;IhXRmHH1
+Idag:ieLleF5X4BRSXRDNR2
+V`[g<8z<N=YmG_4Z:JO0bA0
+R3
+R13
+R14
+R15
 L0 29
-R8
+R7
 r1
 !s85 0
 31
-R20
-R21
-R22
-!s101 -O0
-R10
-Z27 n@r@i@p@p@l@e@c@o@u@n@t@e@r_vlg_sample_tst
-vRIPPLECOUNTER_vlg_vec_tst
-!i10b 1
-!s100 _2Fmb>CfG1GBG[PZ^h@3P0
-IJhARkY@8GLX8n>W_j>`7[1
-Z28 V2_2@=I1?<2oSiecHaADee0
-R4
+R16
 R17
 R18
-R19
-Z29 L0 207
+!s101 -O0
 R8
+vex12_vlg_vec_tst
+!i10b 1
+!s100 bOGi`M=H;dHi;nnRoEASM0
+IS4]>F[^H:ZHULR8czBJ:;1
+VX1i^iBHZzSg0iAXhB<4L11
+R3
+R13
+R14
+R15
+L0 215
+R7
 r1
 !s85 0
 31
-R20
-R21
-R22
+R16
+R17
+R18
 !s101 -O0
-R10
-Z30 n@r@i@p@p@l@e@c@o@u@n@t@e@r_vlg_vec_tst
+R8
